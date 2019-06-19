@@ -5,7 +5,7 @@ A file-action triggered workflow that converts the selected Word document into a
 
 The selected file is input to an AppleScript that does the heavy lifting.
 
-'''
+```
 
 on run argv
 	repeat with i from 1 to count of argv
@@ -45,4 +45,4 @@ on run argv
 	
 end run
 
-'''
+```
