@@ -1,7 +1,7 @@
 # Convert Word to PDF
 A file-action triggered workflow that converts the selected Word document to a PDF.
 
-![](https://raw.githubusercontent.com/woodwerk/alfred_convertWord2PDF/master/scr/workflow.png)
+![](https://raw.githubusercontent.com/woodwerk/alfred_convertWord2PDF/master/convertWord2PDF.png)
 
 The selected file is input to an AppleScript that does the heavy lifting.
 
